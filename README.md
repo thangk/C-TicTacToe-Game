@@ -2,7 +2,7 @@
 
 ***
 
-![main menu](https://github.com/thangk/C/blob/master/Tic%20Tac%20Toe%20Game/main_menu.png)
+![main menu](https://github.com/thangk/TicTacToe-Game/blob/main/main_menu.png)
 
 I developed this small program from scratch for one of my term 3 CS courses. It was to be done in a single file, thus many function prototypes at the top. Forgive the mess. As simple of a program as it is, I was proud to have accomplished this to implement the features it has at the time.
 
